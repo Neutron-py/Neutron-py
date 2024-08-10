@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibrahim (@Neutron-py) Mohamed Nafea
-- 👀 I’m interested in Web Dev    
+- 👀 I’m interested in Back End Dev    
 - 🌱 I’m currently learning UI/UX
 - 💞️ I’m looking to collaborate on FreeLance Frojects
 - 📫 How to reach me Through here : https://linktr.ee/Neutron_1N 
